@@ -24,6 +24,11 @@
             "id": 5,
             "title": "Görev 5",
             "completed": false
+        },
+        {
+            "id": 5,
+            "title": "Linkedin görevi",
+            "completed": false
         }
     ]
 }
